@@ -69,5 +69,5 @@ user_groups:
 
 I am a postdoctoral fellow at the University of Utah School of Medicine within the Department of Population Health Sciences. 
 
-My research research is targeted at identifying the key factors underlying the decision making processes of patients and medical practitioners in order to better understand how people estimate, judge, and make choices about important health decisions. From these findings, I aim to develop, and test, interventions (e.g., decision aids and communication strategies) designed to engender more judicious health decisions.
+My research is targeted at identifying the key factors underlying the decision making processes of patients and medical practitioners in order to better understand how they estimate, judge, and make choices about important health decisions. From these findings, I aim to develop, and test, interventions (e.g., decision aids and communication strategies) designed to engender more judicious health decisions.
 
