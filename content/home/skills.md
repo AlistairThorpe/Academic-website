@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Other interests"
+title = "Current research areas"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,29 +15,29 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "dice"
+  icon = "bacteria"
   icon_pack = "fas"
-  name = "Factors influencing inappropriate antimicrobial behaviour and interventions to promote prudent use of antibiotics"
-  description = ""
+  name = "Antibiotics"
+  description = "Understanding drivers of inappropriate antibiotic-related behaviours and interventions to promote prudent use of antibiotics"
   
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "Public health communication regarding COVID-19"
-  description = ""  
+  icon = "virus"
+  icon_pack = "fas"
+  name = "COVID-19"
+  description = "Understanding and developing effective public health communication strategies"  
 
 [[feature]]
-  icon = "dice"
+  icon = "heartbeat"
   icon_pack = "fas"
-  name = "Parents’ experiences following a diagnosis of congenital heart disease for their fetus or neonate"
-  description = ""
+  name = "Congenital Heart Disease"
+  description = "Parents’ experiences following a diagnosis of CHD for their fetus or neonate"
 
 
   [[feature]]
-  icon = "dice"
+  icon = "pills"
   icon_pack = "fas"
-  name = "Physicians’ interpretations of predicted atrial fibrillation risk and RCT evidence on direct oral anticoagulants"
-  description = ""
+  name = "Atrial Fibrillation"
+  description = "Physicians’ interpretations of predicted atrial fibrillation risk and RCT evidence on direct oral anticoagulants"
 
 
 
