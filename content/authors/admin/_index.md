@@ -16,19 +16,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions. From these findings I aim to develop and test interventions to help people make judicious decisions and improve public health and wellbeing.
 
-#interests:
-#- Skiing
-#- Fishing
-#- Sandal wearing
+interests:
+- 
+- Fishing
+- Sandal wearing
 
-#education:
-#  courses:
-#  - course: PhD in Psychology
-#    institution: University of Essex
-#    year: 2019
-#  - course: BSc in Psychology
-#    institution: University of Essex
-#    year: 2016
+education:
+  courses:
+  - course: PhD in Psychology
+    institution: University of Essex
+    year: 2019
+  - course: BSc in Psychology
+    institution: University of Essex
+    year: 2016
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,16 +55,16 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am a Postdoctoral Fellow at the University of Utah School of Medicine within the Department of Population Health Sciences. 
 
-I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions.  From these findings, I aim to develop, and test, interventions (e.g., decision aids and communication strategies) designed to engender more judicious health decisions.
+I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions.  From these findings, I aim to develop interventions (e.g., decision aids and communication strategies) designed to engender more judicious health decisions.
 
