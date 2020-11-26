@@ -17,19 +17,18 @@ organizations:
 bio: I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions. From these findings I aim to develop and test interventions to help people make judicious decisions and improve public health and wellbeing.
 
 #interests:
-#- 
-#- Public health communication regarding COVID-19
-#- Parents’ experiences following a diagnosis of congenital heart disease for their fetus or neonate
-#- Physicians’ interpretations of predicted atrial fibrillation risk and RCT evidence on direct oral anticoagulants
+#- Skiing
+#- Fishing
+#- Sandal wearing
 
-education:
-  courses:
-  - course: PhD in Psychology
-    institution: University of Essex
-    year: 2019
-  - course: BSc in Psychology
-    institution: University of Essex
-    year: 2016
+#education:
+#  courses:
+#  - course: PhD in Psychology
+#    institution: University of Essex
+#    year: 2019
+#  - course: BSc in Psychology
+#    institution: University of Essex
+#    year: 2016
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
