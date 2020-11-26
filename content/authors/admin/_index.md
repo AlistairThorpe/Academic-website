@@ -17,9 +17,9 @@ organizations:
 bio: I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions. From these findings I aim to develop and test interventions to help people make judicious decisions and improve public health and wellbeing.
 
 interests:
-- 
-- Fishing
-- Sandal wearing
+- Medical decision making
+- Risk perceptions
+- Risk Communication
 
 education:
   courses:

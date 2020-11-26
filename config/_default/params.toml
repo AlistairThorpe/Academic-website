@@ -93,9 +93,9 @@ email = "alistairthorpe8@gmail.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Find me on Twitter", link = "https://twitter.com/AThorpe_"}
-  ]
+#contact_links = [
+#  {icon = "twitter", icon_pack = "fab", name = "Find me on Twitter", link = "https://twitter.com/AThorpe_"}
+#  ]
 
 ############################
 ## Social
