@@ -1,38 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr Alistair Thorpe
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Posdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Utah, School of Medicine
+  url: "https://medicine.utah.edu/population-health-sciences/faculty/postdoctoral-fellows.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions. From these findings I aim to develop and test interventions to help people make judicious decisions and improve public health and wellbeing..
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+current research interests:
+- Factors influencing inappropriate antimicrobial behaviour and interventions to promote prudent use of antibiotics
+- Public health communication regarding COVID-19
+- Parents’ experiences following a diagnosis of congenital heart disease for their fetus or neonate
+- Physicians’ interpretations of predicted atrial fibrillation risk and RCT evidence on direct oral anticoagulants
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  - course: PhD in Psychology
+    institution: University of Essex
+    year: 2019
+  - course: BSc in Psychology
+    institution: University of Essex
+    year: 2016
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -69,6 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral fellow at the University of Utah School of Medicine within the Department of Population Health Sciences. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research research is targeted at identifying the key factors underlying the decision making processes of patients and medical practitioners in order to better understand how people estimate, judge, and make choices about important health decisions. From these findings, I aim to develop, and test, interventions (e.g., decision aids and communication strategies) designed to engender more judicious health decisions.
+
