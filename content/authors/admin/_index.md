@@ -14,7 +14,7 @@ organizations:
   url: "https://medicine.utah.edu/population-health-sciences/faculty/postdoctoral-fellows.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions. From these findings I aim to develop and test interventions to help people make judicious decisions and improve public health and wellbeing..
+bio: I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions. From these findings I aim to develop and test interventions to help people make judicious decisions and improve public health and wellbeing.
 
 current research interests:
 - Factors influencing inappropriate antimicrobial behaviour and interventions to promote prudent use of antibiotics
@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral fellow at the University of Utah School of Medicine within the Department of Population Health Sciences. 
+I am a Postdoctoral Fellow at the University of Utah School of Medicine within the Department of Population Health Sciences. 
 
-My research is targeted at identifying the key factors underlying the decision making processes of patients and medical practitioners in order to better understand how they estimate, judge, and make choices about important health decisions. From these findings, I aim to develop, and test, interventions (e.g., decision aids and communication strategies) designed to engender more judicious health decisions.
+I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions.  From these findings, I aim to develop, and test, interventions (e.g., decision aids and communication strategies) designed to engender more judicious health decisions.
 
