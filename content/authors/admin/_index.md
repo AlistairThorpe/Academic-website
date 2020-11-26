@@ -16,11 +16,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions. From these findings I aim to develop and test interventions to help people make judicious decisions and improve public health and wellbeing.
 
-interests:
-- Factors influencing inappropriate antimicrobial behaviour and interventions to promote prudent use of antibiotics
-- Public health communication regarding COVID-19
-- Parents’ experiences following a diagnosis of congenital heart disease for their fetus or neonate
-- Physicians’ interpretations of predicted atrial fibrillation risk and RCT evidence on direct oral anticoagulants
+#interests:
+#- 
+#- Public health communication regarding COVID-19
+#- Parents’ experiences following a diagnosis of congenital heart disease for their fetus or neonate
+#- Physicians’ interpretations of predicted atrial fibrillation risk and RCT evidence on direct oral anticoagulants
 
 education:
   courses:

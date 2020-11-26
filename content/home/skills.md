@@ -18,13 +18,13 @@ subtitle = ""
   icon = "bacteria"
   icon_pack = "fas"
   name = "Antibiotics"
-  description = "Understanding drivers of inappropriate antibiotic-related behaviours and interventions to promote prudent use of antibiotics"
+  description = "Drivers of inappropriate antibiotic-related behaviours and interventions to promote prudent use of antibiotics"
   
 [[feature]]
   icon = "virus"
   icon_pack = "fas"
   name = "COVID-19"
-  description = "Understanding and developing effective public health communication strategies"  
+  description = "Public health communication strategies and intentions to comply with infection control guidelines "  
 
 [[feature]]
   icon = "heartbeat"
