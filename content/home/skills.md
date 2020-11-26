@@ -17,14 +17,30 @@ subtitle = ""
 [[feature]]
   icon = "dice"
   icon_pack = "fas"
-  name = "Decision making"
+  name = "Factors influencing inappropriate antimicrobial behaviour and interventions to promote prudent use of antibiotics"
   description = ""
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "Statistics"
+  name = "Public health communication regarding COVID-19"
   description = ""  
+
+[[feature]]
+  icon = "dice"
+  icon_pack = "fas"
+  name = "Parents’ experiences following a diagnosis of congenital heart disease for their fetus or neonate"
+  description = ""
+
+
+  [[feature]]
+  icon = "dice"
+  icon_pack = "fas"
+  name = "Physicians’ interpretations of predicted atrial fibrillation risk and RCT evidence on direct oral anticoagulants"
+  description = ""
+
+
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
