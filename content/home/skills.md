@@ -18,13 +18,13 @@ subtitle = ""
   icon = "bacteria"
   icon_pack = "fas"
   name = "Antibiotics"
-  description = "Drivers of inappropriate antibiotic-related behaviours and interventions to promote prudent use of antibiotics"
+  description = "Drivers of inappropriate antibiotic-related behaviours and interventions to promote prudent antibiotic use"
   
 [[feature]]
   icon = "virus"
   icon_pack = "fas"
   name = "COVID-19"
-  description = "Public health communication strategies and engagement with infection control guidelines"  
+  description = "Health communication strategies and public engagement with infection control guidelines"  
 
 [[feature]]
   icon = "heartbeat"
@@ -37,7 +37,7 @@ subtitle = ""
   icon = "pills"
   icon_pack = "fas"
   name = "Atrial Fibrillation"
-  description = "Physicians’ interpretations of predicted atrial fibrillation risk and RCT evidence on direct oral anticoagulants"
+  description = "Physicians’ interpretations of predicted AF risk and RCT evidence on direct oral anticoagulants"
 
 
 
