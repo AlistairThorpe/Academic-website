@@ -55,6 +55,8 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
+authors: Alistair Thorpe
+
 highlight_name: true
 
 # Organizational groups that you belong to (for People widget)

@@ -6,11 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Alistair Thorpe
-- Rick O’Gorman Alistair Thorpe is a doctoral student in the psychology department
-  at the University of Essex with a broad interest in decision making
-- the behavioural sciences Rick O’Gorman is a lecturer
-- the Employability Development Director for the Department of Psychology at the University
-  of Essex
+- Rick O’Gorman
 tags: []
 categories: []
 date: '2016-10-01'

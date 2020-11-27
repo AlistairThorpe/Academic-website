@@ -18,7 +18,7 @@ subtitle = ""
   icon = "bacteria"
   icon_pack = "fas"
   name = "Antibiotics"
-  description = "Drivers of inappropriate antibiotic-related behaviours and interventions to promote prudent antibiotic use"
+  description = "Behaviour changes strategies to promote prudent use of antibiotics"
   
 [[feature]]
   icon = "virus"
