@@ -18,7 +18,7 @@ tags:
 - '"physician"'
 - '"trust"'
 categories: []
-date: '2020-01-01'
+date: '2020-04-01'
 lastmod: 2020-11-27T14:01:27Z
 featured: false
 draft: false
