@@ -68,5 +68,5 @@ highlight_name: true
 
 I am a Postdoctoral Fellow at the University of Utah, School of Medicine working with Drs. Angela Fagerlin and Elissa Ozanne in the Department of Population Health Sciences. 
 
-I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions.  From these findings, I aim to develop interventions (e.g., decision aids and communication strategies) designed to engender more judicious health decisions.
+I have general research interest in understanding how people estimate, judge, and make health-related decisions.  From these findings, I aim to develop interventions (e.g., decision aids and communication strategies) designed to engender more judicious decisions about health and wellbeing.
 
