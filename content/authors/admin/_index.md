@@ -6,7 +6,7 @@ title: Dr Alistair Thorpe
 superuser: true
 
 # Role/position
-role: Posdoctoral Fellow
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,7 @@ highlight_name: true
 #- Visitors
 ---
 
-I am a Postdoctoral Fellow at the University of Utah School of Medicine within the Department of Population Health Sciences. 
+I am a Postdoctoral Fellow at the University of Utah, School of Medicine within the Department of Population Health Sciences. 
 
 I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions.  From these findings, I aim to develop interventions (e.g., decision aids and communication strategies) designed to engender more judicious health decisions.
 
