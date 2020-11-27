@@ -18,7 +18,7 @@ subtitle = ""
   icon = "bacteria"
   icon_pack = "fas"
   name = "Antibiotics"
-  description = "Behavioural strategies to promote clinically prudent antibiotic use by the public and prescribers"
+  description = "Behavioural strategies to promote clinically prudent use by the public and prescribers"
   
 [[feature]]
   icon = "virus"
