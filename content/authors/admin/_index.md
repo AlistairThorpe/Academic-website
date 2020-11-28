@@ -19,7 +19,7 @@ bio: I have general research interest in understanding how people estimate, judg
 interests:
 - Medical decision making
 - Risk perceptions
-- Risk Communication
+- Risk communication
 
 education:
   courses:
