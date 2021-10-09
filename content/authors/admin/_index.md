@@ -14,7 +14,7 @@ organizations:
   url: "https://medicine.utah.edu/population-health-sciences/faculty/postdoctoral-fellows.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions. From these findings I aim to develop and test interventions to help people make judicious decisions and improve public health and wellbeing.
+bio: I have general research interest in understanding how people estimate, judge, and make  health-related decisions. From these findings I aim to develop and test interventions to help people make judicious decisions and improve public health and wellbeing.
 
 interests:
 - Medical decision making
