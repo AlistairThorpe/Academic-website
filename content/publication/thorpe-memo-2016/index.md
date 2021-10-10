@@ -6,7 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Alistair Thorpe
-- Rick O’Gorman
+- Rick O’Gorman Alistair Thorpe is a doctoral student in the psychology department
+  at the University of Essex with a broad interest in decision making
+- the behavioural sciences Rick O’Gorman is a lecturer
+- the Employability Development Director for the Department of Psychology at the University
+  of Essex
 tags: []
 categories: []
 date: '2016-10-01'
@@ -28,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T14:01:26.520817Z'
+publishDate: '2021-10-10T17:08:44.688416Z'
 publication_types:
 - '0'
 abstract: A survival of the fittest approach to hiring is a recipe for disaster.

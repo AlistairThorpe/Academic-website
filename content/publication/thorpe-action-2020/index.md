@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T14:01:27.058880Z'
+publishDate: '2021-10-10T17:08:45.054463Z'
 publication_types:
 - '2'
 abstract: 'Clinical guidelines recommend that physicians educate patients about illnesses
