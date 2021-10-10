@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-10T17:08:45.656389Z'
+publishDate: '2021-10-10T17:36:40.644796Z'
 publication_types:
 - '2'
 abstract: 'People often expect antibiotics when they are clinically inappropriate
