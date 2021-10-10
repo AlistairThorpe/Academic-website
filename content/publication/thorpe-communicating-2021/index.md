@@ -34,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-10T17:36:41.168554Z'
+publishDate: '2021-10-10T17:51:59.800705Z'
 publication_types:
-- '4'
+- '2'
 abstract: 'Purpose Beliefs that the risks from the vaccine outweigh the risks from
   getting COVID-19 and concerns that the vaccine development process was rushed and
   lacking rigor have been identified as important drivers of hesitancy and refusal
@@ -50,16 +50,14 @@ abstract: 'Purpose Beliefs that the risks from the vaccine outweigh the risks fr
   development process of the COVID-19 mRNA vaccines. Results Most respondents (60%)
   wanted a COVID-19 vaccine. However, 17% expressed hesitancy and 23% did not want
   to get a COVID-19 vaccine. The fact-box styled message and the timeline message
-  did not significantly improve vaccination intentions, F(2,358)=0.86, p=.425, textlessimg
-  class=\"highwire-embed\" alt=\"Embedded Image\" src=\"https://www.medrxiv.org/sites/default/files/highwire/medrxiv/early/2021/09/29/2021.06.25.21259519/embed/inline-graphic-1.gif\"/textgreater,
-  or reduce the time respondents wanted to wait before getting vaccinated, F(2,306)=0.79,
-  p=.453, textlessimg class=\"highwire-embed\" alt=\"Embedded Image\" src=\"https://www.medrxiv.org/sites/default/files/highwire/medrxiv/early/2021/09/29/2021.06.25.21259519/embed/inline-graphic-2.gif\"/textgreater,
-  compared to no messages. Discussion We did not find an impact on vaccine intention
-  based on providing information about vaccine risks and development. Further research
-  is needed to identify how to effectively address concerns about the risks associated
-  with COVID-19 vaccines and the development process and to understand additional
-  factors that influence vaccine intentions.'
-publication: ''
+  did not significantly improve vaccination intentions, F(2,358)=0.86, p=.425, partial
+  eta squared=.005, or reduce the time respondents wanted to wait before getting vaccinated,
+  F(2,306)=0.79, p=.453, partial eta squared=.005, compared to no messages. Discussion
+  We did not find an impact on vaccine intention based on providing information about
+  vaccine risks and development. Further research is needed to identify how to effectively
+  address concerns about the risks associated with COVID-19 vaccines and the development
+  process and to understand additional factors that influence vaccine intentions.'
+publication: '*medRxiv*'
 url_pdf: https://www.medrxiv.org/content/10.1101/2021.06.25.21259519v2
 doi: 10.1101/2021.06.25.21259519
 ---

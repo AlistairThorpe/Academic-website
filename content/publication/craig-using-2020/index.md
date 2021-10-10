@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-10T17:36:40.295783Z'
+publishDate: '2021-10-10T17:51:58.894661Z'
 publication_types:
 - '2'
 abstract: This paper explores the nature and impact of research misconduct in psychology

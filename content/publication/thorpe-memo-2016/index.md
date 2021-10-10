@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-10T17:36:39.768333Z'
+publishDate: '2021-10-10T17:51:58.375113Z'
 publication_types:
 - '0'
 abstract: A survival of the fittest approach to hiring is a recipe for disaster.
