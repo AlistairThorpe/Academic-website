@@ -18,7 +18,7 @@ tags:
 - '"physician"'
 - '"trust"'
 categories: []
-date: '2020-04-01'
+date: '2020-03-01'
 lastmod: 2020-11-27T14:01:27Z
 featured: false
 draft: false
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T14:01:27.531178Z'
+publishDate: '2021-10-10T17:51:59.066821Z'
 publication_types:
 - '2'
 abstract: 'Objectives To reduce overprescribing, health campaigns urge physicians

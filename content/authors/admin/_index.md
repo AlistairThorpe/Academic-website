@@ -14,7 +14,7 @@ organizations:
   url: "https://medicine.utah.edu/population-health-sciences/faculty/postdoctoral-fellows.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have general research interest in understanding how people estimate, judge, and make choices about health-related decisions. From these findings I aim to develop and test interventions to help people make judicious decisions and improve public health and wellbeing.
+bio: I 
 
 interests:
 - Medical decision making
@@ -66,7 +66,7 @@ highlight_name: true
 #- Visitors
 ---
 
-I am a Postdoctoral Research Fellow at the University of Utah, School of Medicine working with Drs. Angela Fagerlin and Elissa Ozanne in the Department of Population Health Sciences. 
+I am a Postdoctoral Research Fellow at the University of Utah, School of Medicine working with Drs. Angela Fagerlin and Elissa Ozanne within the Department of Population Health Sciences. 
 
 I have general research interest in understanding how people estimate, judge, and make health-related decisions. Based on these insights, I aim to develop interventions (e.g., decision aids and communication strategies) designed to engender more judicious decisions about health and wellbeing.
 
