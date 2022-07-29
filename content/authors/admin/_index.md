@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Psychology
+  - course: PhD in Psychology
     institution: University of Essex
     year: 2019
   - course: BSc in Psychology
