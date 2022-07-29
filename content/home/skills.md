@@ -18,26 +18,26 @@ subtitle = ""
   icon = "bacteria"
   icon_pack = "fas"
   name = "Antibiotics"
-  description = "Behavioural strategies to promote clinically prudent use by the public and prescribers"
+  description = "Behavioural strategies 2 promote clinically prudent use by the public and prescribers."
   
 [[feature]]
   icon = "virus"
   icon_pack = "fas"
   name = "COVID-19"
-  description = "Health communication strategies and public engagement with infection control guidelines"  
+  description = "Health communication strategies and public engagement with infection control guidelines."  
 
 [[feature]]
   icon = "heartbeat"
   icon_pack = "fas"
   name = "Congenital Heart Disease"
-  description = "Parents’ experiences following a diagnosis of CHD for their fetus or neonate"
+  description = "Parents’ experiences following a diagnosis of CHD for their fetus or neonate."
 
 
   [[feature]]
   icon = "pills"
   icon_pack = "fas"
   name = "Atrial Fibrillation"
-  description = "Physicians’ interpretations of predicted AF risk and RCT evidence on direct oral anticoagulants"
+  description = "Physicians’ interpretations of predicted AF risk and RCT evidence on direct oral anticoagulants."
 
 
 
