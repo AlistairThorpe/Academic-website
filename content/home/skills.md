@@ -24,7 +24,7 @@ subtitle = ""
   icon = "virus"
   icon_pack = "fas"
   name = "COVID-19"
-  description = "Communication strategies and public engagement with infection control guidelines."  
+  description = "Health communication strategies and public engagement with infection control guidelines."  
 
 [[feature]]
   icon = "heartbeat"
