@@ -26,7 +26,7 @@ education:
   - course: PhD Psychology
     institution: University of Essex
     year: 2019
-  - course: BSc in Psychology
+  - course: BSc Psychology
     institution: University of Essex
     year: 2016
   
